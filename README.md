@@ -1,0 +1,3 @@
+V tomto projektu budu vytvářet Recepty.
+Vytvořím seznam ingrediencí pro recept ... Ještě nevím jaký...
+Procvičím základí dovednosti které znám z Odinu a Mima.
